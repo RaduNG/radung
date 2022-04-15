@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Radu Florentin</h1>
 <h3 align="center">A passionate 14-yo wanna-be developer. :)</h3>
+<img src="![undraw_Programming_re_kg9v](https://user-images.githubusercontent.com/31445781/163568479-27ccdb5a-b50d-48dd-a5ea-9d8f87164c03.png)" align="right">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radung&label=Profile%20views&color=0e75b6&style=flat" alt="radung" /> </p>
 
