@@ -1,7 +1,7 @@
 ![Radu_banner](https://user-images.githubusercontent.com/31445781/163568186-df711dc4-37f7-450f-9c0e-12adaa4f175f.png)
 
 <h1 align="center">Hi 👋, I'm Radu Florentin</h1>
-<h3 align="center">A passionate 14-yo wanna-be developer. :)</h3>
+<h3 align="center">A passionate developer. :)</h3>
 <img align="right" alt="programming_svg" width="400" src="https://i.imgur.com/rCX2P4Z.png">
 
 
